@@ -1,3 +1,5 @@
+# if string reverse == string its called palindrome
+
 def palindrome(str)
   l = str.length
   m = l/2
